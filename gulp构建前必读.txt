@@ -9,7 +9,7 @@ git clone https://github.com/inier/cacss.git
 npm install -g bower
 npm install -g browser-sync
 
-echo ########  Gulp Install START  ########
+echo ########  Gulp Install START 111111 ########
 echo -----  1.∆Ù”√cnpmæµœÒ£®http://npm.taobao.org£© -----
 
 
